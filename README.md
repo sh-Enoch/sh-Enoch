@@ -29,3 +29,5 @@ You can click the Preview link to take a look at your changes.
  🏆 GitHub Profile Trophy:
  
  [![ Enoch's trophy](https://github-profile-trophy.vercel.app/?username=sh-Enoch&theme=onedark)](https://github.com/sh-Enoch/github-profile-trophy)
+
+ <a href="https://app.daily.dev/wekesawafula"><img src="https://api.daily.dev/devcards/v2/gtC32FBbRjyaE9FWmhGy6.png?type=default&r=hbh" width="356" alt="Wekesa Wafula's Dev Card"/></a>
