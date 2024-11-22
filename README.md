@@ -3,12 +3,6 @@
 
 I'm a Backend Developer and DevOps enthusiast with a passion for crafting robust and scalable solutions.
 
-👀 Interests: Backend Development and DevOps
-
-🌱 Currently Learning: Advanced concepts in Backend Software Development
-
-💬 Let's Collaborate On: Innovative software projects and DevOps automation
-
 📫 Reach Me At: enochweks@gmail.com
 
 ## My Skills
@@ -16,8 +10,6 @@ I'm a Backend Developer and DevOps enthusiast with a passion for crafting robust
 - Python
 - java
 - javascript
-
-
 
 ## **Frameworks:**
 - Django
@@ -33,6 +25,4 @@ I'm a Backend Developer and DevOps enthusiast with a passion for crafting robust
 **Connect with Me**
 I'm always excited to network and collaborate. Reach out via:
 
-!LinkedIn
-
-!GitHub -- sh-Enoch
+GitHub -- sh-Enoch
